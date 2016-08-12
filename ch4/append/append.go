@@ -1,3 +1,4 @@
+// 简单实现slice append函数功能
 package main
 
 import "fmt"
